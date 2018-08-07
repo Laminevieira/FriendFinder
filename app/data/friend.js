@@ -19,4 +19,4 @@ var friendList = [
     }
   ]
   
-  module.exports = friendList;
+  module.exports = friendList; 
